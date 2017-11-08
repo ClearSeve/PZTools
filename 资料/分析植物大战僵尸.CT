@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"太阳"</Description>
+      <LastState Value="000023E6" Activated="0" RealAddress="113AF430"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>5560</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"金币"</Description>
+      <LastState Value="000F423F" Activated="0" RealAddress="08092FA0"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>28</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"花肥"</Description>
+      <LastState Value="00000406" Activated="0" RealAddress="08093170"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>1F8</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"杀虫剂"</Description>
+      <LastState Value="000003F8" Activated="0" RealAddress="08093174"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>1FC</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"巧克力"</Description>
+      <LastState Value="00000000" Activated="0" RealAddress="080931A0"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>228</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"树肥"</Description>
+      <LastState Value="00000000" Activated="0" RealAddress="080931A8"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>230</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"跳关"</Description>
+      <LastState Value="00000050" Activated="0" RealAddress="08092F9C"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>24</Offset>
+        <Offset>82C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"冷却1"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEB38"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>50</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"冷却2"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEB88"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>A0</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"冷却3"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEBD8"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>F0</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"冷却4"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEC28"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>140</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"冷却5"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEC78"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>190</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"冷却6"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AECC8"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>1E0</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"冷却7"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AED18"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>230</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"冷却8"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AED68"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>280</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"冷却9"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEDB8"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>2D0</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"冷却10"</Description>
+      <LastState Value="00000000" Activated="1" RealAddress="0D6AEE08"/>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Plants.vs.Zombies.exe+2A9EC0</Address>
+      <Offsets>
+        <Offset>320</Offset>
+        <Offset>144</Offset>
+        <Offset>768</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
